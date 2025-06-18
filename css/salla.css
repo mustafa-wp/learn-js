@@ -1,4 +1,4 @@
-.list li{
+.list li {
     cursor: pointer;
     padding: 10px;
     border: 1px solid #ccc;
@@ -6,6 +6,7 @@
     list-style-type: none;
 }
 
-.list li:hover{
+.list li:hover {
     background-color: #ccc;
 }
+
